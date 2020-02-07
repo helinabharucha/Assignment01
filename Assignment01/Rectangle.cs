@@ -13,8 +13,8 @@ namespace Assignment01
 
         public Rectangle()
         {
-            length = 1;
-            width = 1;
+            this.length = 1;
+            this.width = 1;
 
         }
 

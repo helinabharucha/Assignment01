@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\Assignment01\Assignment01\.vs\Assignment01\v16\lut\0\b\Assignment01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\source\repos\Assignment01\Assignment01\.vs\Assignment01\v16\lut\0\b\Assignment01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\source\repos\Assignment01\Assignment01\.vs\Assignment01\v16\lut\0\b\Assignment01.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\source\repos\Assignment01\Assignment01\.vs\Assignment01\v16\lut\0\b\Assignment01.Tests\bin\Debug\Assignment01.Tests.dll
+C:\Users\Owner\source\repos\Assignment01\Assignment01\.vs\Assignment01\v16\lut\0\i\Assignment01.Tests\Debug\Assignment01.Tests.csproj.CopyComplete
+C:\Users\Owner\source\repos\Assignment01\Assignment01\.vs\Assignment01\v16\lut\0\i\Assignment01.Tests\Debug\Assignment01.Tests.dll
